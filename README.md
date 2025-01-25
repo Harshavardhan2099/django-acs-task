@@ -16,8 +16,8 @@ Ensure you have the following installed:
 - Git
 
 ## Screenshots
-![Screenshot 1](Screenshot 2025-01-25 231225.png)
-![Screenshot 2](Screenshot 2025-01-25 231559.png)
+![Screenshot 1](screenshot1)
+![Screenshot 2](screenshot2)
 
 ## Installation and Setup 
 Follow these steps and use those commands to set up and run the project locally: 
