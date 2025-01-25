@@ -19,12 +19,14 @@ Ensure you have the following installed:
 Follow these steps and use those commands to set up and run the project locally: 
 ### Step 1: Clone the Repository
 
-```git clone https://github.com/Harshavardhan2099/django-acs-task.git```
-```cd profile_project```
+```bash 
+git clone https://github.com/Harshavardhan2099/django-acs-task.git
+cd profile_project
+```
 
 ### Step 2: Create and Activate a Virtual Environment
 
-```
+```bash
 # On windows
 python -m venv venv
 .\venv\Scripts\activate
@@ -36,15 +38,21 @@ source venv/bin/activate
 ### Step 3: Install Dependencies 
 Install the required packages from **requirements.txt**
 
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 
 ### Step 4: Apply Migrations 
 
-```python manage.py migrate```
+```bash
+python manage.py migrate
+```
 
 ### Step 5: Run the Development Server 
 
-```python manage.py runserver```
+```bash
+python manage.py runserver
+```
 
 Now, open your favourite browser and visit: http://127.0.0.1:8000
 
