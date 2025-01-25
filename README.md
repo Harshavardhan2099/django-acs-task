@@ -15,6 +15,10 @@ Ensure you have the following installed:
 - Pip
 - Git
 
+## Screenshots
+![Screenshot 1](Screenshot 2025-01-25 231225.png)
+![Screenshot 2](Screenshot 2025-01-25 231559.png)
+
 ## Installation and Setup 
 Follow these steps and use those commands to set up and run the project locally: 
 ### Step 1: Clone the Repository
